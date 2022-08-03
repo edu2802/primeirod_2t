@@ -1,0 +1,19 @@
+body {
+  background: #010000;
+}
+h1 {
+  text-align: center;
+  color: #a2a5a3;
+}
+h2 {
+  color: #a2a5a3
+}
+
+.caixa2 {
+  position:  absolute;
+  background: gray;
+  color: white;
+  width: 163px;
+  height: 100px;
+  left: 50%;
+}
