@@ -1,0 +1,188 @@
+body{
+  background: 	#282828;
+
+}
+h1 {
+  text-align: center;
+padding: 35px 12px;
+color: 	#e1e1e1;
+}
+h2 {
+ color: #e1e1e1;
+}
+
+p {
+  padding: 3px;
+  text-align: center;
+  color: #e1e1e1;
+ font-size: large;
+}
+
+.menuPrincipal {
+ position: absolute;
+ background: 		#bf2626 ;     
+ width: 100%;
+ height: 50px;
+ top: 0;
+ left: 0;
+ color: 	#e1e1e1; 
+}
+
+/*
+.caixa1 {
+  position: absolute;
+  background: violet;
+  color: 	#e1e1e1;
+  width: 200px;
+  height: 200px;
+  right: 0px;
+ bottom: 0px;
+}
+
+.caixa2 {
+  position: absolute;
+  background: red;
+  color: 	#e1e1e1;
+  width: 200px;
+  height: 200px;
+  right: 0px;
+  bottom: 200px;
+}
+
+.caixa3 {
+  position: absolute;
+  background: green;
+  color: 	#e1e1e1;
+  width: 200px;
+  height: 200px;
+  right: 200px;
+ bottom: 0px;
+}  */
+
+nav ul{
+list-style-type:none;
+margin: 0;
+padding: 0;
+}
+
+li{
+float: left;
+}
+
+li a{
+display: block;
+color: 	#e1e1e1;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-family: "Times New Roman", Times, serif;
+}
+li a:hover{
+background: 		#ecb7b7;
+color:black;
+font-size:23px;
+}
+/*
+#blueSky {width: 35%;
+  height: 100%;
+ }
+
+.Bsky{                          
+  position: absolute;
+
+  top: 50px;
+  left: 0px;
+  width:90%;
+  height: 350px;
+  background: grey;
+  margin: 20px;
+  border-color:honeydew ;
+  border-width: 20px;
+  border-style:solid ;
+  padding:55px;
+  display: flex;
+  justify-content: center;
+}  caixinha do blue sky, não o blue sky em si. pode modificar o blue sky.*/
+
+
+#Placas {width: auto;
+  height: auto;
+  max-width: 540px;
+  max-height: 540px;
+  border: 20px outset #bf2626;
+  border-radius: 380px;
+
+ }
+
+.pagina3{                          
+ 
+
+
+	margin-top: 80px;
+
+ 
+  top: auto;
+  left: auto;
+  width:auto;
+  height: auto; 
+  text-align: center;
+
+  padding:55px;
+  justify-content: center;
+} 
+
+
+
+#ceos {width: auto;
+  height: auto;
+  min-width: 500px;
+  min-height: 500px;
+  border: 10px outset #bf2626;
+  
+ }
+
+
+
+
+ .Creators{
+          
+
+  top: 50px;
+  left: 0px;
+  width:auto;
+  height: auto;
+
+
+  padding: 1px;
+  display: flex;
+  justify-content: center;
+} 
+
+
+
+
+
+
+
+
+
+
+.rodape{
+ position: fixed;
+ bottom: 0;
+ width: 100%;
+ background: black;
+ color: 	#e1e1e1;
+ height: 35px;
+ display: flex;
+ justify-content: center;
+ font-size: 30px;
+ left: 0;
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ 
+}
+
+.conteudo{
+  position: absolute;
+  
+}
